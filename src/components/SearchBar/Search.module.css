@@ -1,0 +1,25 @@
+.divSearch {
+    margin-top: 3%;
+    background-color: rgb(102, 70, 175);
+    padding: 2em;
+    border-radius: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-top: 0.5em;
+
+}
+
+.inputSearch {
+    height: 4em;
+    border-radius: 5%;
+    background-color: rgb(216, 211, 211);
+
+}
+
+.button {
+    height: 4em;
+    border-radius: 5%;
+    background-color: chartreuse;
+
+}

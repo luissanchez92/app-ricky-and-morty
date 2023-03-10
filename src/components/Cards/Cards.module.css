@@ -1,0 +1,10 @@
+.divCards {
+    background-color: rgb(206, 206, 230);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin: auto;
+    background-color: cadetblue;
+    padding: 3em;
+}

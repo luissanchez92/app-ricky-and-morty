@@ -1,0 +1,16 @@
+.divCard {
+    background-color: rgb(124, 100, 146);
+    width: fit-content;
+    padding: 1em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.button {
+    border-radius: 10px;
+    background-color: rgb(218, 115, 30);
+    width: fit-content;
+    height: fit-content;
+}
